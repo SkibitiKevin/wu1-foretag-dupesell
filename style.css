@@ -72,8 +72,8 @@ body {
 
 .container {
     width: min(100vw - 3rem, 56rem);
-    margin-inline: auto;
+    margin-inline: flex;
     display: flex;
-    max-width: 50vh;
+    max-width: 48vh;
 }
 
